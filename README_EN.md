@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 <a href="https://scriptforge666.github.io/">
   <img src="https://scriptforge666.github.io/dependency/ScriptForge.png" width="128" style="border-radius:50%" alt="ScriptForge" />
@@ -20,7 +20,7 @@
 [![中文](https://img.shields.io/badge/文档-简体中文-blue?style=flat-square)](README.md)
 [![English](https://img.shields.io/badge/Docs-English-red?style=flat-square)](README_EN.md)
 
-</center>
+</div>
 
 ## GitHub Data Statistics
 
