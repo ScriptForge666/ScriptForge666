@@ -21,3 +21,19 @@
 [![English](https://img.shields.io/badge/Docs-English-red?style=flat-square)](README_EN.md)
 
 </center>
+
+## GitHub Data Statistics
+
+<br/>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScriptForge666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptForge666&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ScriptForge666&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ScriptForge666&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
