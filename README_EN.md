@@ -11,8 +11,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ScriptForge666-181717?style=flat-square&logo=github)](https://github.com/Scriptforge666)
-[![Bilibili](https://img.shields.io/badge/Bilibili-Scriptforge脚本锻造-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/)
-[![Website](https://img.shields.io/badge/Website-Scriptforge666.github.io-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://Scriptforge666.github.io/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Scriptforge脚本锻造-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546377690811209)
+[![Website](https://img.shields.io/badge/Website-www.script--forge.top-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://www.script-forge.top/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Scriptforge666&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Scriptforge666?style=flat-square&label=Followers&color=236ad3)
 ![GitHub Repo Stars](https://img.shields.io/github/stars/Scriptforge666?style=flat-square&label=Total+Stars&affiliations=OWNER&color=e3b341)
